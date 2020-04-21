@@ -1,12 +1,12 @@
 body {
-    background-color: #2C2F33;
+    background-color: whitesmoke;
 }
 
 header {
     color: #2A2F33;
 }
 h1 {
-    color: #FFFFFF;
+    color: black;
     font-family: Arial;
     text-align: center;
 }
